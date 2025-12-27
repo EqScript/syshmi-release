@@ -1,4 +1,5 @@
 # syshmi-updater manifest
+download_url  = "https://github.com/user-attachments/files/24353073/syshmi-core-v0.0.1a.tar.gz"
 version       = "0.0.1a"
 binary        = "syshmi-core"
 checksum      = "0849865d679fbd4e050390a378f4e9f24946f5db0d5a46c60cc1233f1bb0a855" # sha256

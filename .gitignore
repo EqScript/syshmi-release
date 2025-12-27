@@ -1,0 +1,5 @@
+# Ignore built release archives
+*.tar.gz
+*.zip
+*.tgz
+
