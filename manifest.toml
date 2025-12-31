@@ -1,6 +1,6 @@
 # syshmi-updater manifest v0.1
 
-download_url    = "https://github.com/EqScript/syshmi-release/releases/download/v0.0.1b/syshmi-core-v0.0.1b.tar.gz"
+download_url    = "https://github.com/user-attachments/files/24395558/syshmi-core-v0.0.1b.tar.gz"
 version_set     = "0.0.1b"
 
 [[modules]]
