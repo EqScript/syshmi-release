@@ -6,7 +6,7 @@ version_set     = "0.0.1b"
 [[modules]]
 name            = "syshmi-core-v0.0.1b"
 version         = "0.0.1b"
-checksum        = "0849865d679fbd4e050390a378f4e9f24946f5db0d5a46c60cc1233f1bb0a855" # sha256
+checksum        = "5fed91e965fdd7738b0f59312b9906d411ed2464a338afc98e87d0a2ccec4041" # sha256
 target_dir      = "/srv/firmware/"
 start_command   = "/srv/firmware/syshmi-core"
 rollback_keep   = 2
