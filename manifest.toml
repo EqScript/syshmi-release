@@ -4,8 +4,9 @@ download_url    = "https://github.com/user-attachments/files/24395558/syshmi-cor
 version_set     = "0.0.1b"
 
 [[modules]]
-name            = "syshmi-core-v0.0.1b"
+name            = "syshmi-core"
 version         = "0.0.1b"
+binary          = "syshmi-core-v0.0.1b"
 checksum        = "5fed91e965fdd7738b0f59312b9906d411ed2464a338afc98e87d0a2ccec4041" # sha256
 target_dir      = "/srv/firmware/"
 start_command   = "/srv/firmware/syshmi-core"
