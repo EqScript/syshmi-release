@@ -1,11 +1,11 @@
 # syshmi-updater manifest v0.1
 
 download_url    = "https://github.com/user-attachments/files/24353073/syshmi-core-v0.0.1a.tar.gz"
-version_set     = "0.0.1a"
+version_set     = "0.0.1b"
 
 [[modules]]
-name            = "syshmi-core-v"
-version         = "0.0.1-alpha"
+name            = "syshmi-core-v0.0.1b"
+version         = "0.0.1b"
 checksum        = "0849865d679fbd4e050390a378f4e9f24946f5db0d5a46c60cc1233f1bb0a855" # sha256
 target_dir      = "/srv/firmware/"
 start_command   = "/srv/firmware/syshmi-core"
